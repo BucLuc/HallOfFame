@@ -1,0 +1,6 @@
+# Private source data: never commit or publish.
+/data/
+/private/
+*.local.json
+*.bak
+*.zip
